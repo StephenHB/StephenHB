@@ -72,8 +72,7 @@ Expertise in **Macroeconomics**, **Financial Time Series Analysis**, and **Econo
 ```mermaid
 graph LR
 A[Traditional Econometrics] --> C[Hybrid / Multi - Modal]
-B[Deep Learning] --> C
-D[Foundation Model] -- C
-C --> E[Macroeconomic Forecasting]
-C --> F[Financial Time Series]
-C --> G[Business Cycle Analysis]
+B[Deep Learning & Fundation Models] --> C
+C --> D[Macroeconomic Forecasting]
+C --> E[Financial Time Series]
+C --> F[Business Cycle Analysis]
