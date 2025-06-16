@@ -1,6 +1,5 @@
-# 👋 Hello! I'm Stephen, PhD Researcher in Econometrics, Macroeconomics & AI
+## 👋 Hello! I'm Stephen. Economist by training, ML enthusiast by passion, perpetual learner by nature. Exploring where data meets decision-making.
 
-> *"Where macroeconomic theory meets machine learning - building predictive bridges between economic cycles and algorithmic intelligence."*
 
 🌐 **Research Domain**  
 Expertise in **Macroeconomics**, **Financial Time Series Analysis**, and **Economertrics** using cutting-edge computational methods. Passionately exploring the fusion of traditional econometrics with deep learning and LLMs.
