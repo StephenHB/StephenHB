@@ -63,9 +63,7 @@ Expertise in **Macroeconomics**, **Financial Time Series Analysis**, and **Econo
 ---
 
 ## 🧠 Current Research Frontiers
-- **LLM-Econometrics Fusion**: Building domain-specific agents for economic analysis
-- **Neural Differential Equations**: For financial time series forecasting
-- **Real-time Business Cycle Indicators**: Using alternative data streams
+- **LLM-Forecasting Fusion**: Building domain-specific agents for forecasting
 - **Hybrid Forecasting Models**: Combining econometric and deep learning approaches
 
 ```mermaid
