@@ -1,4 +1,4 @@
-## 👋 Hello! I'm Stephen. Working at the intersection of Economics, Machine Learning, and Artificial Intelligence.
+## 👋 Hello! I'm Stephen. Turning data into impact through Economics, Machine Learning, and Artificial Intelligence.
 
 🌐 **Research Domain**  
 Expertise in **Macroeconomics**, **Financial Time Series Analysis**, and **Economertrics** using cutting-edge computational methods. Passionately exploring the fusion of traditional econometrics with deep learning and LLMs.
