@@ -74,8 +74,6 @@ graph LR
 A[Traditional Econometrics] --> C[Hybrid / Multi - Modal]
 B[Deep Learning] --> C
 D[Foundation Model] -- C
-C --> D[Macroeconomic Forecasting]
-C --> E[Financial Time Series]
-C --> F[Business Cycle Analysis]
-
-
+C --> E[Macroeconomic Forecasting]
+C --> F[Financial Time Series]
+C --> G[Business Cycle Analysis]
