@@ -1,5 +1,4 @@
-## 👋 Hello! I'm Stephen. Economist by training, ML enthusiast by passion, perpetual learner by nature. Exploring where data meets decision-making.
-
+## 👋 Hello! I'm Stephen. Working at the intersection of Economics, Machine Learning, and Artificial Intelligence. #EconML
 
 🌐 **Research Domain**  
 Expertise in **Macroeconomics**, **Financial Time Series Analysis**, and **Economertrics** using cutting-edge computational methods. Passionately exploring the fusion of traditional econometrics with deep learning and LLMs.
